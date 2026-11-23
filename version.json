@@ -1,0 +1,14 @@
+{
+  "app": "MrOneQuanLy",
+  "version": "1.0.7",
+  "tag": "v1.0.7",
+  "release_date": "2026-11-23",
+  "installer": "MrOneQuanLy_Setup_1.0.7.exe",
+  "sha256": "5da56379716241ac6cf09e2c418f11be62ece61eab2b47a1beee8e94dbd94be9",
+  "size_bytes": 16031439,
+  "signed": false,
+  "download_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/download/v1.0.7/MrOneQuanLy_Setup_1.0.7.exe",
+  "release_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/tag/v1.0.7",
+  "min_supported_version": "1.0.0",
+  "notes": "- Sửa lỗi GA bị nhân đôi ở kỳ đã chốt (tự dọn khi mở tool)\n- Lương YouTube: chi tiết chỉ hiện kênh có tiền, bấm đúp mở kênh, kênh thiếu link bắt điền\n- Thêm nút Kiểm tra bản mới / tự hỏi cập nhật\n- Chặn mở 2 cửa sổ tool cùng lúc; cửa sổ vừa màn hình; sửa nút bị cắt ở trang Adsense"
+}
