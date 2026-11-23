@@ -1,14 +1,14 @@
 {
   "app": "MrOneQuanLy",
-  "version": "1.0.7",
-  "tag": "v1.0.7",
+  "version": "1.0.8",
+  "tag": "v1.0.8",
   "release_date": "2026-11-23",
-  "installer": "MrOneQuanLy_Setup_1.0.7.exe",
-  "sha256": "5da56379716241ac6cf09e2c418f11be62ece61eab2b47a1beee8e94dbd94be9",
-  "size_bytes": 16031439,
+  "installer": "MrOneQuanLy_Setup_1.0.8.exe",
+  "sha256": "4d2f0d1d1391ee77b881814711937c5042e7b82abff962a6d50c1d254ea7c5c0",
+  "size_bytes": 16038123,
   "signed": false,
-  "download_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/download/v1.0.7/MrOneQuanLy_Setup_1.0.7.exe",
-  "release_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/tag/v1.0.7",
+  "download_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/download/v1.0.8/MrOneQuanLy_Setup_1.0.8.exe",
+  "release_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/tag/v1.0.8",
   "min_supported_version": "1.0.0",
-  "notes": "- Sửa lỗi GA bị nhân đôi ở kỳ đã chốt (tự dọn khi mở tool)\n- Lương YouTube: chi tiết chỉ hiện kênh có tiền, bấm đúp mở kênh, kênh thiếu link bắt điền\n- Thêm nút Kiểm tra bản mới / tự hỏi cập nhật\n- Chặn mở 2 cửa sổ tool cùng lúc; cửa sổ vừa màn hình; sửa nút bị cắt ở trang Adsense"
+  "notes": "- Thanh toán Adsense: GA chưa bấm gì giờ hiện CHƯA XÁC NHẬN (trước đây tự hiện ĐÃ PAID)\n- Sang kỳ mới chỉ GA đã bấm ĐÃ PAID mới về 0; GA chưa xác nhận được giữ số dư làm Tiền cũ (không mất tiền)\n- Xác nhận ĐÃ PAID chỉ có hiệu lực trong 1 kỳ, sang kỳ sau phải xác nhận lại"
 }
