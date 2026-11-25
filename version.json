@@ -1,14 +1,14 @@
 {
   "app": "MrOneQuanLy",
-  "version": "1.0.9",
-  "tag": "v1.0.9",
+  "version": "1.0.10",
+  "tag": "v1.0.10",
   "release_date": "2026-11-25",
-  "installer": "MrOneQuanLy_Setup_1.0.9.exe",
-  "sha256": "1aaeff29092e44ba4934dc31127902e4caab1cfc25cd66ead64b491845e6f461",
-  "size_bytes": 16605064,
+  "installer": "MrOneQuanLy_Setup_1.0.10.exe",
+  "sha256": "4c608b8377fbae6c5ab9a223f7735fa7f8ae216a20ff32ddd170c6ec16e76c96",
+  "size_bytes": 16603129,
   "signed": false,
-  "download_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/download/v1.0.9/MrOneQuanLy_Setup_1.0.9.exe",
-  "release_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/tag/v1.0.9",
+  "download_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/download/v1.0.10/MrOneQuanLy_Setup_1.0.10.exe",
+  "release_url": "https://github.com/nguyenkhoi23930-jpg/MrOneQuanLy/releases/tag/v1.0.10",
   "min_supported_version": "1.0.0",
-  "notes": "- Thêm chức năng ↪ SỐ DƯ KỲ TRƯỚC: chuyển số dư cuối kỳ trước của GA chưa PAID / chưa xác nhận sang Tiền cũ kỳ hiện tại\n- Tự hỏi khi mở tool nếu kỳ hiện tại bị đưa Tiền cũ về 0 bằng logic cũ (kỳ 2026-11 → 2026-12); bỏ tích GA Google đã trả thật\n- (từ 1.0.8) GA chưa bấm gì hiện CHƯA XÁC NHẬN và được giữ số dư khi sang kỳ"
+  "notes": "- Sửa lỗi: bấm ĐÃ PAID cho kỳ trước SAU KHI đã sang kỳ mới mà số dư vẫn bị cộng sang Tiền cũ kỳ hiện tại — nay tool hỏi và đưa Tiền cũ kỳ hiện tại về 0\n- Ngược lại: bấm CHƯA PAID cho kỳ trước khi kỳ hiện tại đang Tiền cũ = 0 thì tool hỏi chuyển số dư sang\n- (từ 1.0.9) Chức năng ↪ SỐ DƯ KỲ TRƯỚC"
 }
